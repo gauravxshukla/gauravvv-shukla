@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gauravvv-shukla
-- 👀 I’m love designing that's the reason I am a Front-end Web developer.
+- Hi, I’m @gauravvv-shukla
+-I love designing that's the reason I am a Front-end Web developer.
 - You can ping me on my website at https://gauravshukla.me/
 - While , I am also curious in finding the logic to everything which 
 - essentially inclines me towards Competitive Coding.
